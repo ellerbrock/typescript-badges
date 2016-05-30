@@ -4,7 +4,7 @@
 
 [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg)](https://github.com/ellerbrock/typescript-badges/) 
 
-You may also like the [Open Source & License Badges](https://github.com/ellerbrock/typescript-badges/) for Web Developers.  
+You may also like [Open Source & License Badges](https://github.com/ellerbrock/typescript-badges/) and the [Awesome TypeScript List](https://github.com/ellerbrock/awesome-typescript).    
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
 
