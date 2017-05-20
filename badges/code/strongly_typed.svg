@@ -11,7 +11,7 @@
   <g mask="url(#a)">
     <path fill="#555" d="M0 0h53v18H0z"/>
     <path fill="#007ec6" d="M53 0h69v18H53z"/>
-    <path fill="url(#b)" d="M0 0h102v18H0z"/>
+    <path fill="url(#b)" d="M0 0h122v18H0z"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
     <text x="17.5" y="14" fill="#010101" fill-opacity=".3">&lt;/&gt; npm</text>
