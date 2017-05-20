@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="122" height="18">
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="18">
   <linearGradient id="b" x2="0" y2="100%">
     <stop offset="0" stop-color="#fff" stop-opacity=".7"/>
     <stop offset=".1" stop-color="#aaa" stop-opacity=".1"/>
@@ -6,17 +6,17 @@
     <stop offset="1" stop-opacity=".5"/>
   </linearGradient>
   <mask id="a">
-      <rect width="122" height="18" rx="4" fill="#fff"/>
+      <rect width="142" height="18" rx="4" fill="#fff"/>
   </mask>
   <g mask="url(#a)">
-    <path fill="#555" d="M0 0h53v18H0z"/>
-    <path fill="#007ec6" d="M53 0h69v18H53z"/>
-    <path fill="url(#b)" d="M0 0h122v18H0z"/>
+    <path fill="#555" d="M0 0h73v18H0z"/>
+    <path fill="#007ec6" d="M73 0h69v18H73z"/>
+    <path fill="url(#b)" d="M0 0h142v18H0z"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
     <text x="27.5" y="14" fill="#010101" fill-opacity=".3">&lt;/&gt; npm</text>
     <text x="27.5" y="13">&lt;/&gt; npm</text>
-    <text x="76.5" y="14" fill="#010101" fill-opacity=".3">strongly typed</text>
-    <text x="76.5" y="13">strongly typed</text>
+    <text x="96.5" y="14" fill="#010101" fill-opacity=".3">strongly typed</text>
+    <text x="96.5" y="13">strongly typed</text>
   </g>
 </svg>
