@@ -10,7 +10,7 @@
   </mask>
   <g mask="url(#a)">
     <path fill="#555" d="M0 0h54v18H0z"/>
-    <path fill="#007ec6" d="M54 0h69v18H54z"/>
+    <path fill="#007ec6" d="M54 0h88v18H54z"/>
     <path fill="url(#b)" d="M0 0h142v18H0z"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
