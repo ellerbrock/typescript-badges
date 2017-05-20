@@ -9,8 +9,8 @@
       <rect width="142" height="18" rx="4" fill="#fff"/>
   </mask>
   <g mask="url(#a)">
-    <path fill="#555" d="M0 0h73v18H0z"/>
-    <path fill="#007ec6" d="M73 0h69v18H73z"/>
+    <path fill="#555" d="M0 0h53v18H0z"/>
+    <path fill="#007ec6" d="M53 0h69v18H53z"/>
     <path fill="url(#b)" d="M0 0h142v18H0z"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
